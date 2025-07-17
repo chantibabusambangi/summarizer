@@ -3,7 +3,7 @@
 import os
 import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
-from langchain.chat_models import ChatGroq
+from langchain_community.chat_models import ChatGroq
 from langchain.chains.summarize import load_summarize_chain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
