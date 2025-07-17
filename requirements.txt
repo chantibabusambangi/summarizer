@@ -1,0 +1,7 @@
+streamlit
+#Environment management
+python-dotenv
+youtube-transcript-api
+langchain
+langchain-groq
+youtube-transcript-api
