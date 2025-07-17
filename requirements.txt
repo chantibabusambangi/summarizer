@@ -3,5 +3,6 @@ streamlit
 python-dotenv
 youtube-transcript-api
 langchain
+langchain-community
 langchain-groq
 youtube-transcript-api
